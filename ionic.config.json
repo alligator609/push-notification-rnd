@@ -1,0 +1,7 @@
+{
+  "name": "push-notification-rnd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
