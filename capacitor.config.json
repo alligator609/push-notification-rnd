@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "push-notification-rnd",
-	"webDir": "www",
-	"bundledWebRuntime": false
+  "appId": "zia.ete10.ionicpush",
+  "appName": "Ionic Push Notification",
+  "webDir": "www",
+  "bundledWebRuntime": false
 }
